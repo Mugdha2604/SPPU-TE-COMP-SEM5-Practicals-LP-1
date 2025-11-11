@@ -1,0 +1,8 @@
+START
+    ADD A, 5
+    ADD B, 10
+    LOAD R1
+    DISPLAY HELLO
+    LOAD R2
+    DISPLAY WORLD
+END
